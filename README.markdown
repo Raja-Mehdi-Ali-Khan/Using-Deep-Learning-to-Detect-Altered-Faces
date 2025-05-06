@@ -1,7 +1,6 @@
 # Using Deep Learning to Detect Altered Faces
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Dataset](https://img.shields.io/badge/dataset-FaceForensics%2B%2B-orange)
 
 Welcome to our project, **Using Deep Learning to Detect Altered Faces**! We built an automated deepfake detection system to tackle the growing threat of manipulated videos that blur the line between truth and deception. Using a CNN-LSTM model with an attention mechanism, trained on the FaceForensics++ dataset (~140 videos), our system identifies fake videos with high accuracy while explaining its decisions through visualizations. As beginner AI enthusiasts, we’re thrilled to share this accessible tool, hosted at [https://github.com/Raja-Mehdi-Ali-Khan/Using-Deep-Learning-to-Detect-Altered-Faces](https://github.com/Raja-Mehdi-Ali-Khan/Using-Deep-Learning-to-Detect-Altered-Faces). Inspired by George E. P. Box’s wisdom, “All models are wrong, some are useful,” our model is a practical step toward safeguarding trust in the digital age.
