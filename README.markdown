@@ -141,4 +141,4 @@ For bugs or ideas, open an issue on GitHub. Please follow our code of conduct.
 
 ---
 
-For questions or support, open an issue on GitHub or contact rajghaznavi7@gmail.com . Join us in using deep learning to detect altered faces and restore trust in what’s real!
+For questions or support, open an issue on GitHub or contact rajghaznavi7@gmail.com . Join us in using deep learning to detect altered faces and restore trust in what’s real!!!
